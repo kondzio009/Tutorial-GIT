@@ -1,2 +1,2 @@
-# Tutorial-GIT
+# cwiczenia
 tutorial gita
